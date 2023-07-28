@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37dbe2b5.css",
+    "main.js": "/static/js/main.f1d5fe10.js",
+    "static/media/marbled.jpg": "/static/media/marbled.c8efcda3fddb25d3f3cf.jpg",
+    "static/media/1675760889282.jpg": "/static/media/1675760889282.d5f1edbddce2d2875aad.jpg",
+    "index.html": "/index.html",
+    "main.37dbe2b5.css.map": "/static/css/main.37dbe2b5.css.map",
+    "main.f1d5fe10.js.map": "/static/js/main.f1d5fe10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37dbe2b5.css",
+    "static/js/main.f1d5fe10.js"
+  ]
+}
